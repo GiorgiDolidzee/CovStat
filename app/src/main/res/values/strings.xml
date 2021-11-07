@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MidExam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="covid_info">სიმპტომების აღმოჩენის შემთხვევაში აუცილებლად გადადით
+იზოლაციაში და დაუკავშირდით 112-ს</string>
+    <string name="recommendation_headr">• კორონავირუსისგან თავის დაცვის ყველაზე ეფექტური საშუალება არის ვაქცინაცია.</string>
+    <string name="recommendation_list">ინფიცირების პრევენციისთვის გაითვალისწინეთ შემდეგი დამატებითი რეკომენდაციები:</string>
+    <string name="recommendation_1">► მოერიდეთ ხალხმრავალ ადგილებს</string>
+    <string name="recommendation_2">► გაიკეთეთ პირბადე დახურულ სივრცეებში, ხალხმრავალ ადგილებში და იმ ადამიანებთან ახლოს კონტაქტის დროს, რომლებსაც აქვთ კორონავირუსისთვის დამახასიათებელი სიმპტომები.</string>
+    <string name="recommendation_3">► დაიცავით 2 მეტრიანი ფიზიკური დისტანცია (პირბადის გამოყენების შემთხვევაშიც)</string>
+    <string name="recommendation_4">► ხშირად დაიბანეთ ხელი საპნითა და წყლით (40-60 წამის განმავლობაში) ან ალკოჰოლის შემცველი 70%იანი ხსნარით (20-40 წამი).</string>
+</resources>
